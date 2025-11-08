@@ -119,10 +119,7 @@ export default function Home() {
             <Card className="border-primary/20">
               <CardContent className="p-6 md:p-8">
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                  I am an <strong>extroverted, data-driven individual</strong> with a strong interest in the complete data lifecycle — 
-                  from analytics, Data Science, AI to data governance and operations. As a Computer Science graduate from 
-                  <strong> Institut Pertanian Bogor</strong> with a <strong>3.56 GPA</strong>, I actively build new skills through 
-                  various certifications in different data fields, demonstrating adaptability and a continuous drive to learn.
+                 I am a data-driven professional with a strong focus on the complete data lifecycle — spanning analytics, Data Science, Artificial Intelligence, and data governance. A Computer Science graduate from Institut Pertanian Bogor with a GPA of 3.46, I continuously develop my expertise through various certifications across data disciplines, demonstrating adaptability, technical proficiency, and a commitment to continuous growth.
                 </p>
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                   With hands-on experience at <strong>BCA</strong>, <strong>GoTo</strong>, and <strong>AIESEC</strong>, 

@@ -51,11 +51,10 @@ export default function Home() {
               Sulthan Farras Razin
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-              Data Science & Machine Learning Professional
+              Data & Machine Learning Professional Focused on Data Quality and Insights
             </p>
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Computer Science graduate passionate about the complete data lifecycle — from analytics and AI 
-              to data governance and operations. Transforming complex data into actionable insights.
+              Computer Science graduate specializing in the end-to-end data lifecycle — from collection and preparation to analytics, machine learning, and governance. Focused on ensuring data quality, integrity, and actionable insights to support business decisions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link href="/projects">
